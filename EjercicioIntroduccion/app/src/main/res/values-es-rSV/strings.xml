@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EjercicioIntroduccion</string>
+    <string name="title">Tutorial de Jetpack Compose</string>
+    <string name="subtitle">Jetpack Compose es un conjunto de herramientas moderno para crear interfaces de usuario nativas de Android. Compose simplifica y acelera el desarrollo de interfaces de usuario en Android con menos código, herramientas potentes y API de Kotlin intuitivas.</string>
+    <string name="paragraph">En este tutorial, crearás un componente de interfaz de usuario sencillo con funciones declarativas. Llamarás a las funciones de Compose para especificar los elementos que deseas, y el compilador de Compose se encargará del resto. Compose se basa en funciones Composable. Estas funciones te permiten definir la interfaz de usuario de tu aplicación mediante programación, ya que te permiten describir su apariencia y proporcionar dependencias de datos, en lugar de centrarte en el proceso de construcción de la interfaz, como inicializar un elemento y luego adjuntarlo a un elemento padre. Para crear una función Composable, añade la anotación @Composable al nombre de la función.</string>
+    <string name="sentence1">Todas las tareas completadas</string>
+    <string name="sentence2">¡Buen trabajo!</string>
+    <string name="text_title">Componible de texto</string>
+    <string name="text_p">Muestra texto y sigue las directrices recomendadas de Material Design.</string>
+    <string name="image_title">Componible de imagen</string>
+    <string name="image_p">Crea un componente componible que organiza y dibuja un objeto de la clase Painter determinado.</string>
+    <string name="row_title">Componible de fila</string>
+    <string name="row_p">Un diseño componible que coloca sus elementos secundarios en una secuencia horizontal.</string>
+    <string name="column_title">Componible de columna</string>
+    <string name="column_p">Un diseño componible que coloca sus elementos secundarios en una secuencia vertical.</string>
+</resources>
